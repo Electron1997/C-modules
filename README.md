@@ -5,4 +5,4 @@ Custom implementation of some C modules
 ```
 #include "relative_path_of_module"
 ```
-Include the .c files of all used modules when compiling.
+Include the .c files of all used modules for compilation
