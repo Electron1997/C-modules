@@ -4,7 +4,7 @@
 
 int main(int argc, char *argv[]){
 
-    ull a = 5, b = 2;
+    int a = 5, b = 2;
     
     // Test swap()
     swap(&a, &b);
